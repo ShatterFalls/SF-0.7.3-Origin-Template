@@ -1,0 +1,5 @@
+{
+  "name":"Description Power",
+  "description":"This Power only shows a discription on the Origin info In Game.",
+  "type":"origins:multiple"
+}

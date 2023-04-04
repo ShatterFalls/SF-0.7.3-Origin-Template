@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "MINECRAFT USERNAME",
+    "description": "",
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:'MINECRAFT USERNAME'}"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:origin_datapack",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

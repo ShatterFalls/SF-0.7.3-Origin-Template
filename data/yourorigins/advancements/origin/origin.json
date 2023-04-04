@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "ORIGIN NAME",
+    "description": "PART OF ORIGIN DESCRIPTION",
+    "hidden": true,
+    "show_toast": true,
+    "announce_to_chat": false,
+    "icon": {
+      "item": "minecraft:item"
+    }
+  },
+  "parent": "yourorigins:you",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

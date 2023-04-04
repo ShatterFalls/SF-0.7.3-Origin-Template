@@ -1,0 +1,22 @@
+{
+  "display": {
+    "announce_to_chat": false,
+    "show_toast": false,
+    "frame": "task",
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "title": {
+      "text": "Origin Datapacks"
+    },
+    "description": {
+      "text": ""
+    },
+    "icon": {
+      "item": "origins:orb_of_origin"
+    }
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ability Power",
+  "description": "Ability Powers are defined by the need to manually activate something yourself.",
+  "type": "origins:multiple",
+  "sub_power": {
+    "type": "origins:active_self",
+    "cooldown": 1,
+    "key": {
+      "key": "key.origins.primary_active"
+    },
+    "hud_render": {
+      "should_render": false
+    },
+    "condition": {},
+    "entity_action": {}
+  }
+}

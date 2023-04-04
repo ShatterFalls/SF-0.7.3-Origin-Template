@@ -1,0 +1,6 @@
+{
+  "name": "Body Power",
+  "description": "This power will typically hold anything that PASSIVELY affects the player's body based off the enviroment or origin theme.",
+  "type": "origins:multiple",
+  "sub_power": {}
+}
